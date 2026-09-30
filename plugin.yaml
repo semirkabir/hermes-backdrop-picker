@@ -1,0 +1,12 @@
+name: backdrop-picker
+version: "0.1.0"
+description: Custom images for the Hermes Desktop chat backdrop — pick your own, set opacity, fit, blend, and auto-rotate.
+manifest_version: 1
+requires_hermes: ">=0.21.1"
+author: semirkabir
+license: MIT
+homepage: https://github.com/semirkabir/hermes-backdrop-picker
+capabilities: []
+kind: standalone
+requires_env: []
+python_dependencies: []
